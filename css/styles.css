@@ -42,6 +42,50 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.language-images {
+  display:inline-flex;
+  flex-wrap: wrap;
+}
+
+#html {
+  height:80px;
+  width:80px;
+}
+
+#bootstrap {
+  height: 80px;
+  width: 80px;
+}
+#css {
+  height: 80px;
+  width: 80px;
+}
+
+#jquery{
+  height: 80px;
+  width: 80px;
+}
+
+#python {
+  height: 80px;
+  width: 80px;
+}
+
+#react {
+  height: 80px;
+  width: 80px;
+}
+
+#redux {
+  height: 80px;
+  width: 100px;
+}
+
+#sql {
+  height: 80px;
+  width: 80px;
+}
+
 *,
 *::before,
 *::after {
